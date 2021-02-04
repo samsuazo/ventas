@@ -19,7 +19,7 @@ namespace ventas
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("El camino al exito, es la actitud");
+            MessageBox.Show("El camino al exito, es la actitud.");
         }
     }
 }
